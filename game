@@ -1,8 +1,8 @@
 Let's make a game!
-name: Gold Clicker
-by: George Turner
-created: 23/11/2024
-version: 0.1
+  name: Gold Clicker
+  by: George Turner
+  created: 23/11/2024
+  version: 0.1
 
 Settings
-background:gold_clicker_background.png
+  background:gold_clicker_background.png
